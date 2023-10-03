@@ -1,1 +1,17 @@
-/* You can add global styles to this file, and also import other style files */
+/* https://colorhunt.co/palette/451952662549ae445af39f5a
+
+#451952     rgb(69, 25, 82)
+#662549     rgb(102, 37, 73)
+#AE445A     rgb(174, 68, 90)
+#F39F5A     rgb(243, 159, 90)
+
+*/
+:root{
+    --black: #12090e;
+    --white: #f7eef4;
+    --color-1: #FFE4D6; /*rgb(255, 228, 214)*/
+    --color-2: #FACBEA; /*rgb(250, 203, 234)*/
+    --color-3: #D988B9; /*rgb(217, 136, 185)*/
+    --color-4: #B0578D; /*rgb(176, 87, 141)*/
+    --color-5: #351a2a;
+  }
